@@ -1,0 +1,23 @@
+{
+  "name": "btc-dca-engine",
+  "description": "The BTC DCA Engine plugin: historical dollar-cost-averaging simulations for Bitcoin, other crypto, stock indices and macro series.",
+  "owner": {
+    "name": "Matchless Web, LLC",
+    "url": "https://btcdcaengine.com"
+  },
+  "plugins": [
+    {
+      "name": "btc-dca-engine",
+      "source": "./",
+      "description": "Ask what a dollar-cost-averaging plan would have been worth. Historical simulations for Bitcoin, other crypto, stock indices and macro series, each with a link that reopens the run.",
+      "category": "finance",
+      "tags": [
+        "bitcoin",
+        "dca",
+        "investing",
+        "backtest",
+        "finance"
+      ]
+    }
+  ]
+}

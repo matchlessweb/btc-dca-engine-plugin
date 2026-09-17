@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "btc-dca-engine": {
+      "type": "http",
+      "url": "https://btcdcaengine.com/mcp"
+    }
+  }
+}
