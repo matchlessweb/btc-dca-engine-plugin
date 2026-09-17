@@ -12,4 +12,9 @@ Run the plan described in `$ARGUMENTS` through the BTC DCA Engine and report wha
    held. Name the date the prices run to.
 4. Finish with the share link from the result, so the run can be opened and checked.
 
+Keep the answer narrow enough for a terminal: short `Label: value` lines, no box-drawn or wide
+tables, and nothing that assumes more than about 70 columns. A table that clips loses the right-hand
+column entirely, and the reader cannot tell a truncated figure from a real one. Put the share link on
+its own line, unwrapped, so it stays clickable.
+
 Historical arithmetic only — no advice, no forecast.
