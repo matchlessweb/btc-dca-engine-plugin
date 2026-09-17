@@ -1,7 +1,7 @@
 {
   "name": "btc-dca-engine",
   "displayName": "BTC DCA Engine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ask what a dollar-cost-averaging plan would have been worth. Historical simulations for Bitcoin, other crypto, stock indices and macro series, each with a link that reopens the run.",
   "author": {
     "name": "Matchless Web, LLC",
@@ -10,5 +10,12 @@
   "homepage": "https://btcdcaengine.com/mcp-server",
   "repository": "https://github.com/matchlessweb/btc-dca-engine-plugin",
   "license": "MIT",
-  "keywords": ["bitcoin", "dca", "investing", "backtest", "finance", "mcp"]
+  "keywords": [
+    "bitcoin",
+    "dca",
+    "investing",
+    "backtest",
+    "finance",
+    "mcp"
+  ]
 }
